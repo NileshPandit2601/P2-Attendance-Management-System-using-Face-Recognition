@@ -1,10 +1,3 @@
-# P2-Attendance-Management-System-using-Face-Recognition
-Here's a suggested **README.md** file for your GitHub project. This file should provide a clear overview of your Face Recognition-based Attendance Management System and how others can set it up and use it.
-
----
-
-# Face Recognition-based Attendance Management System
-
 ## Overview
 
 This project is a **Face Recognition-based Attendance Management System** that automates the process of recording student attendance. It leverages **Viola-Jones for face detection** and **Local Binary Patterns (LBP) for face recognition** to identify and mark the attendance of students based on their facial features.
@@ -48,7 +41,7 @@ To install and run the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/face-recognition-attendance.git
+   git clone https://github.com/NileshPandit2601/P2-Attendance-Management-System-using-Face-Recognition.git
    ```
    
 2. **Navigate to the project directory**:
