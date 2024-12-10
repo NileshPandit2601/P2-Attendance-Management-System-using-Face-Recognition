@@ -44,18 +44,13 @@ To install and run the project locally, follow these steps:
    git clone https://github.com/NileshPandit2601/P2-Attendance-Management-System-using-Face-Recognition.git
    ```
    
-2. **Navigate to the project directory**:
-   ```bash
-   cd face-recognition-attendance
-   ```
-
-3. **Install the required dependencies**:
+2. **Install the required dependencies**:
    Ensure that you have the necessary libraries installed:
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the project**:
+3. **Run the project**:
    After installation, you can start the application:
    ```bash
    python main.py
